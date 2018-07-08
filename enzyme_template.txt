@@ -1,0 +1,5 @@
+Enzyme: C[AT]GC
+FinalSize: 64
+Ends: GCTGGATC,GCAGGATC,GCTGAGAT,GCAGAGAT,GCAGC,GCTGC
+EnzymeEndSize: 4
+

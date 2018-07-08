@@ -1,0 +1,5 @@
+Enzyme: TGCAG
+FinalSize: 90 
+Ends: CTGCAG,CTGCAAGAT
+EnzymeEndSize: 5
+

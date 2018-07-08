@@ -1,0 +1,5 @@
+Enzyme: TGCAT
+FinalSize: 90 
+Ends: ATGCAT,ATGCAAGAT
+EnzymeEndSize: 5
+
