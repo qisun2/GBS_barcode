@@ -8,7 +8,7 @@ Usage: GBS_barcode.pl yourBarCodeFile yourEnzymeFile
 You will need to create two text files first, a barcode file and an enzyme file.
 Barcode File Example (see the example file, tab delimited text file with 4 columns, code p for paired end, you will need to provide the first end file under the file column :
   
-**SampleName**|**code**|**paired**|**file  **
+**SampleName**|**code**|**paired**|**file**
 -----|-----|-----|-----
 s1|CTCC|s|my\_1.fastq  
 s2|TGCA|s|my\_1.fastq  
